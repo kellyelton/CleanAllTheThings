@@ -54,8 +54,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DisposeAllTheThings\CleanAllTheThings.csproj">
-      <Project>{E70CAC39-EAF2-40DA-8B24-A1BF38B9EA05}</Project>
+    <ProjectReference Include="..\CleanAllTheThings\CleanAllTheThings.csproj">
+      <Project>{e70cac39-eaf2-40da-8b24-a1bf38b9ea05}</Project>
       <Name>CleanAllTheThings</Name>
     </ProjectReference>
   </ItemGroup>
